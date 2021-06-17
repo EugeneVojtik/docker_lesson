@@ -1,0 +1,3 @@
+POSTGRES_PASSWORD=useruser
+POSTGRES_USER=Evgeniy
+POSTGRES_DB=django_database
